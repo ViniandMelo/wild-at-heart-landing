@@ -1,4 +1,4 @@
-# Prism — Wild at Heart Lake Hotel
+# Wild at Heart Lake Hotel
 
 Landing page responsiva para o Wild at Heart Lake Hotel, com identidade visual Prism, animação de rolagem, seções de experiências e fluxo demonstrativo de reserva.
 
